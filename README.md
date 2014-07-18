@@ -1,4 +1,4 @@
-ModStatistics
-=============
+ModStatisticsBlocker
+====================
 
-Usage statistics for Kerbal Space Program mods.
+Blocks ModStatistics.
